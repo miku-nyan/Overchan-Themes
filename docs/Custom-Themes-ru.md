@@ -1,4 +1,4 @@
-[EN](https://github.com/miku-nyan/Overchan-Theme/blob/master/docs/Custom-Themes-en.md)
+[EN](https://github.com/miku-nyan/Overchan-Themes/blob/master/docs/Custom-Themes-en.md)
 
 ## Создание пользовательской темы
 
